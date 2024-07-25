@@ -1,0 +1,6 @@
+@CreditCardValidator_HostAddress = http://localhost:5226
+
+GET {{CreditCardValidator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
